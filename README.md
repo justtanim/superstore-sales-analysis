@@ -13,9 +13,9 @@ I removed columns I didn't need, fixed the date formats, and made charts for eac
 - Tables lose money overall.
 
 ## Files
-- `superstore.ipynb`: the analysis, with code and charts
-- `superstore.xlsx`: the cleaned data
-- `superstore_raw_dataset2011-2015.csv`: the original data
-- `superstore.zreport.pdf`: my written report
+- `superstore.ipynb`: my analysis, with the code, charts and notes for each question
+- `superr_store.xlsx`: the cleaned dataset after dropping the columns I didn't need
+- `superstore_raw_dataset2011-2015.csv`: the original dataset, unchanged
+- `superstore.zreport.pdf`: a written summary of the results
 
 Data: Superstore sales dataset from Kaggle.
